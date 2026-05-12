@@ -14,7 +14,7 @@ const Formation = () => {
     title: "Formation Professionnelle au Maroc | CGC Casablanca",
     description: "Formations professionnelles sur-mesure à Casablanca : management, finance, RH, achats, digital. Éligibles CSF/OFPPT. Cabinet Général de Consulting.",
     path: "/formation",
-    jsonLd: {
+    Ld: {
       "@context": "https://schema.org",
       "@type": "Service",
       "name": "Formation Professionnelle",
