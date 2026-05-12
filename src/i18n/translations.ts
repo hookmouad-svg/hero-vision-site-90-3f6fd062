@@ -501,7 +501,7 @@ export const translations = {
     // Formation Page
     'formation.label': 'Training',
     'formation.title': 'Training & Skills Development',
-    'formation.description': 'CGC offers structured training, led by multidisciplinary experts with over 20 years of experience, for concrete and impactful learning.',
+    'formation.description': 'CGC offers structured training, led by multidisciplinary experts with over 23 years of experience, for concrete and impactful learning.',
     'formation.intro': 'CGC offers structured training, led by multidisciplinary experts with over 20 years of experience, for concrete and impactful learning.',
     'formation.domains_title': 'Our Training Areas',
     'formation.domains_subtitle': 'Programs adapted to each need to develop your teams\' skills',
