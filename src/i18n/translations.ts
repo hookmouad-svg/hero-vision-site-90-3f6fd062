@@ -499,7 +499,7 @@ export const translations = {
     'recrutement.obj3': 'Bring immediately operational talents',
 
     // Formation Page
-    'formation.label': 'Trainingg',
+    'formation.label': 'Training',
     'formation.title': 'Training & Skills Development',
     'formation.description': 'CGC offers structured training, led by multidisciplinary experts with over 20 years of experience, for concrete and impactful learning.',
     'formation.intro': 'CGC offers structured training, led by multidisciplinary experts with over 20 years of experience, for concrete and impactful learning.',
