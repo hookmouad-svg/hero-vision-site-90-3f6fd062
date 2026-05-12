@@ -55,7 +55,7 @@ const Formation = () => {
               <div className="w-20 h-20 rounded-2xl bg-accent/10 flex items-center justify-center mb-6">
                 <GraduationCap className="w-10 h-10 text-accent" />
               </div>
-              <p className="text-lg text-foreground leading-relaxed" dangerouslySetInnerHTML={{ __html: t('formation.intro').replace('experts pluridisciplinaires', '<strong>experts pluridisciplinaires</strong>').replace('plus de 20 ans d\'expérience', '<strong>plus de 20 ans d\'expérience</strong>').replace('multidisciplinary experts', '<strong>multidisciplinary experts</strong>').replace('over 20 years of experience', '<strong>over 20 years of experience</strong>') }} />
+              <p className="text-lg text-foreground leading-relaxed" dangerouslySetInnerHTML={{ __html: t('formation.intro').replace('experts pluridisciplinaires', '<strong>experts pluridisciplinaires</strong>').replace('plus de 22 ans d\'expérience', '<strong>plus de 20 ans d\'expérience</strong>').replace('multidisciplinary experts', '<strong>multidisciplinary experts</strong>').replace('over 20 years of experience', '<strong>over 20 years of experience</strong>') }} />
             </motion.div>
             <motion.div initial={{ opacity: 0, x: 30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} className="order-1 lg:order-2">
               <img src={formationImage?.image_url || formationDefaultImage} alt={formationImage?.alt_text || t('formation.title')} loading="lazy" className="rounded-2xl shadow-xl w-full h-64 lg:h-80 object-cover" />
